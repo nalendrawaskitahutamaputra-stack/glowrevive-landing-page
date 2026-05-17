@@ -234,3 +234,13 @@ nav {
         grid-template-columns: 1fr;
     }
 }
+.footer {
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
